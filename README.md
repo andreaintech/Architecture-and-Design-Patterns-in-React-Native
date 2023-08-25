@@ -7,3 +7,7 @@
 [Class Components vs Functional Components in React](https://www.linkedin.com/pulse/class-components-vs-functional-components-react-dinuka-fernando)
 
 [Should I Use Functional Components or Class Components In React?](https://betterprogramming.pub/should-i-use-functional-components-or-class-components-in-react-e4b93280aa65)
+
+
+
+Updated and maintained with ❤️ by [@andreaintech](https://andreaintech.github.io/web/)
